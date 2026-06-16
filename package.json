@@ -1,7 +1,7 @@
 {
-  "name": "gdxgame-prototype",
+  "name": "iagame-prototype",
   "version": "1.0.0",
-  "description": "Prototype multijoueur top-down (Node + socket.io)",
+  "description": "Prototype multijoueur top-down (Node + socket.io) - Iagame",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

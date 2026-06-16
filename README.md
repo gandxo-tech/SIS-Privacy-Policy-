@@ -1,4 +1,4 @@
-# Node / Socket.io prototype - Gdxgame
+# Iagame - Node / Socket.io prototype
 
 Prototype multijoueur top-down en HTML5 + Node.js + socket.io.
 
